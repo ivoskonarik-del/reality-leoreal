@@ -1,0 +1,19 @@
+# LeoReal
+
+> Nabídky nemovitostí kanceláře LeoReal.
+
+- Web: https://www.leoreal.cz/
+
+## Nabídky (12)
+- Prodej rodinného domu 120 m², pozemek 448 m² — Vedrovice, 3 800 000 Kč: prodej-rodinneho-domu-120-m2-pozemek-448-m2-1254355020/
+- Prodej bytu 2+1 56 m² — Brno-venkov, 4 299 000 Kč: prodej-bytu-2-1-56-m2-1551679564/
+- Prodej bytu 3+1 60 m² — Rožnov pod Radhoštěm, 4 690 000 Kč: prodej-bytu-3-1-60-m2-1667113036/
+- Prodej bytu 3+1 78 m² — obec Břeclav, 5 750 000 Kč: prodej-bytu-3-1-78-m2-1762730060/
+- Prodej rodinného domu 350 m², pozemek 633 m² — Tanvald, 12 800 000 Kč: prodej-rodinneho-domu-350-m2-pozemek-633-m2-1840062540/
+- Prodej rodinného domu 72 m², pozemek 51 m² — Brno-venkov, 6 799 000 Kč: prodej-rodinneho-domu-72-m2-pozemek-51-m2-1919975500/
+- Prodej bytu 1+1 30 m² — Staré Město, 3 290 000 Kč: prodej-bytu-1-1-30-m2-2907123788/
+- Prodej bytu 2+kk 63 m² — Brno-venkov, 5 999 000 Kč: prodej-bytu-2-kk-63-m2-32362572/
+- Prodej rodinného domu 104 m², pozemek 1959 m² — Olešná, 15 300 000 Kč: prodej-rodinneho-domu-104-m2-pozemek-1959-m2-3968041036/
+- Prodej rodinného domu 90 m², pozemek 494 m² — Brno-venkov, 3 850 000 Kč: prodej-rodinneho-domu-90-m2-pozemek-494-m2-542961740/
+- Prodej bytu 3+1 55 m² — obec Nový Jičín, 3 600 000 Kč: prodej-bytu-3-1-55-m2-580722764/
+- Prodej bytu 1+1 42 m² — Nové Město nad Metují, 2 990 000 Kč: prodej-bytu-1-1-42-m2-721784908/
